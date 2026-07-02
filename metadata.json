@@ -1,0 +1,6 @@
+{
+  "name": "CareerMentor AI",
+  "description": "An expert AI academic counselor and technical talent scout that analyzes academic profiles to generate comprehensive, highly structured Individual Assessment Reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
